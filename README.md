@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🔭 Aspiring Node js developer || Backend Developer.<br>
 🔭 I’m currently working on Full Stack Web Development <br>👯 I’m learning Node.js<br>🤝 I have done 3 projects from scratch KindMeal.my, BedBath&Beyond.com, Burberry.com <br>🌱 I m enhancing my skills with Masai School. <br>
-🔭 More about me => <a href="https://gouravsahuu.github.io" target="_blank"> My Portfolio </a>
+🔭 More about me => [My Portfolio](https://gouravsahuu.github.io)
 
 
 ## 🌐 Socials:
